@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earnings Calls — Watchlist</title>
+    <link>https://sheldonmanchur.github.io/earnings-calls/</link>
+    <atom:link href="https://sheldonmanchur.github.io/earnings-calls/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Earnings-call audio for holdings and watchlist companies.</description>
+    <language>en</language>
+    <itunes:author>Scout (for Sheldon Manchur)</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://sheldonmanchur.github.io/earnings-calls/artwork.jpg"/>
+    <image><url>https://sheldonmanchur.github.io/earnings-calls/artwork.jpg</url><title>Earnings Calls — Watchlist</title><link>https://sheldonmanchur.github.io/earnings-calls/</link></image>
+    <item>
+      <title>Uber Q3 2026 earnings call</title>
+      <description>Uber Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_UBER-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-uber-q3-2026.mp3" length="16476846" type="audio/mpeg"/>
+      <itunes:duration>2746</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
