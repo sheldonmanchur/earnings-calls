@@ -11,12 +11,48 @@
     <itunes:image href="https://sheldonmanchur.github.io/earnings-calls/artwork.jpg"/>
     <image><url>https://sheldonmanchur.github.io/earnings-calls/artwork.jpg</url><title>Earnings Calls — Watchlist</title><link>https://sheldonmanchur.github.io/earnings-calls/</link></image>
     <item>
+      <title>Microsoft Q1 FY2027 earnings call</title>
+      <description>Microsoft Q1 FY2027 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NASDAQ_MSFT-q1-2027</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nasdaq-msft-q1-2027.mp3" length="20700542" type="audio/mpeg"/>
+      <itunes:duration>3449</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Uber Q3 2026 earnings call</title>
       <description>Uber Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">NYSE_UBER-q3-2026</guid>
       <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-uber-q3-2026.mp3" length="16476846" type="audio/mpeg"/>
       <itunes:duration>2746</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MercadoLibre Q3 2026 earnings call</title>
+      <description>MercadoLibre Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NASDAQ_MELI-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nasdaq-meli-q3-2026.mp3" length="21020595" type="audio/mpeg"/>
+      <itunes:duration>3503</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>McDonald's Q3 2026 earnings call</title>
+      <description>McDonald's Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_MCD-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-mcd-q3-2026.mp3" length="21732792" type="audio/mpeg"/>
+      <itunes:duration>3622</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Amazon Q3 2026 earnings call</title>
+      <description>Amazon Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NASDAQ_AMZN-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nasdaq-amzn-q3-2026.mp3" length="19356850" type="audio/mpeg"/>
+      <itunes:duration>3226</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
