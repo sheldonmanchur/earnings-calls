@@ -38,21 +38,30 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>McDonald's Q3 2026 earnings call</title>
-      <description>McDonald's Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">NYSE_MCD-q3-2026</guid>
-      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-mcd-q3-2026.mp3" length="21732792" type="audio/mpeg"/>
-      <itunes:duration>3622</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
       <title>Amazon Q3 2026 earnings call</title>
       <description>Amazon Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">NASDAQ_AMZN-q3-2026</guid>
       <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nasdaq-amzn-q3-2026.mp3" length="19356850" type="audio/mpeg"/>
       <itunes:duration>3226</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Meta Platforms Q3 2026 earnings call</title>
+      <description>Meta Platforms Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NASDAQ_META-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nasdaq-meta-q3-2026.mp3" length="22031593" type="audio/mpeg"/>
+      <itunes:duration>3671</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>McDonald's Q3 2026 earnings call</title>
+      <description>McDonald's Q3 2026 earnings call. Source: Fiscal.ai IR events audio. Re-issued Nov 8, 2026 with a fresh episode ID after a cached-copy mix-up in the podcast app; audio verified as the McDonald's call.</description>
+      <pubDate>Sun, 08 Nov 2026 17:13:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_MCD-q3-2026-v2</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-mcd-q3-2026-v2.mp3" length="21732792" type="audio/mpeg"/>
+      <itunes:duration>3622</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
