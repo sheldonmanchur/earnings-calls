@@ -38,6 +38,33 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>FICO Q4 2026 earnings call</title>
+      <description>FICO Q4 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_FICO-q4-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-fico-q4-2026.mp3" length="22039987" type="audio/mpeg"/>
+      <itunes:duration>3673</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Novo Nordisk Q3 2026 earnings call</title>
+      <description>Novo Nordisk Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_NVO-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-nvo-q3-2026.mp3" length="21987175" type="audio/mpeg"/>
+      <itunes:duration>3664</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Booking Holdings Q3 2026 earnings call</title>
+      <description>Booking Holdings Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NASDAQ_BKNG-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nasdaq-bkng-q3-2026.mp3" length="22338894" type="audio/mpeg"/>
+      <itunes:duration>3723</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Amazon Q3 2026 earnings call</title>
       <description>Amazon Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
@@ -56,12 +83,39 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
+      <title>Global Payments Q3 2026 earnings call</title>
+      <description>Global Payments Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_GPN-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-gpn-q3-2026.mp3" length="40752552" type="audio/mpeg"/>
+      <itunes:duration>6791</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BILL Q1 FY2027 earnings call</title>
+      <description>BILL Q1 FY2027 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_BILL-q1-2027</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-bill-q1-2027.mp3" length="21054912" type="audio/mpeg"/>
+      <itunes:duration>3509</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>McDonald's Q3 2026 earnings call</title>
       <description>McDonald's Q3 2026 earnings call. Source: Fiscal.ai IR events audio. Re-issued Nov 8, 2026 with a fresh episode ID after a cached-copy mix-up in the podcast app; audio verified as the McDonald's call.</description>
       <pubDate>Sun, 08 Nov 2026 17:13:00 +0000</pubDate>
       <guid isPermaLink="false">NYSE_MCD-q3-2026-v2</guid>
       <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-mcd-q3-2026-v2.mp3" length="21732792" type="audio/mpeg"/>
       <itunes:duration>3622</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Howard Hughes Q3 2026 earnings call</title>
+      <description>Howard Hughes Q3 2026 earnings call. Source: Fiscal.ai IR events audio.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">NYSE_HHH-q3-2026</guid>
+      <enclosure url="https://sheldonmanchur.github.io/earnings-calls/episodes/nyse-hhh-q3-2026.mp3" length="19067992" type="audio/mpeg"/>
+      <itunes:duration>3177</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
